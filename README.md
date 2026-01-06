@@ -7,7 +7,8 @@ This repository is your one-stop hub for all the Jenkins pipelines, configuratio
 
 
 ### Course Introduction: 
-https://youtu.be/bBx6UfQP1Lo[![Watch the video](https://img.youtube.com/vi/bBx6UfQP1Lo/maxresdefault.jpg)](https://www.youtube.com/watch?v=bBx6UfQP1Lo)
+[![Watch the video](https://img.youtube.com/vi/bBx6UfQP1Lo/maxresdefault.jpg)](https://www.youtube.com/watch?v=bBx6UfQP1Lo&ab_channel=CloudWithVarJosh)
+
 
 ### Course Playlist: 
 [Jenkins: Basics to Production Playlist](https://www.youtube.com/playlist?list=PLmPit9IIdzwSiYCKOtXUGNwytXXiJ8Rv8)
