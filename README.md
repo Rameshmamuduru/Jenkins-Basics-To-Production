@@ -5,8 +5,11 @@ Welcome to the official GitHub repository for the **Jenkins – Basics to Produc
 
 This repository is your one-stop hub for all the Jenkins pipelines, configuration files, and resources you'll need throughout the course. Whether you’re just starting out or looking to sharpen your CI/CD knowledge, you’re in the right place to master Jenkins with real-world, production-ready examples.
 
-### YouTube Playlist for this Course
 
+### Course Introduction: 
+https://youtu.be/bBx6UfQP1Lo[![Watch the video](https://img.youtube.com/vi/bBx6UfQP1Lo/maxresdefault.jpg)](https://www.youtube.com/watch?v=bBx6UfQP1Lo)
+
+### Course Playlist: 
 [Jenkins: Basics to Production Playlist](https://www.youtube.com/playlist?list=PLmPit9IIdzwSiYCKOtXUGNwytXXiJ8Rv8)
 
 ---
