@@ -29,13 +29,13 @@ stage('deploy') {
         // write deploy info with build number in the filename
         sh '''
           cat > deploy-info-$BUILD_NUMBER.txt <<EOF
-build: $BUILD_NUMBER
-image: $IMAGE:$TAG
-commit: ${GIT_COMMIT}
-branch: $GIT_BRANCH
-time: $(date -u +"%Y-%m-%dT%H:%M:%SZ")
-url: $BUILD_URL
-EOF
+            build: $BUILD_NUMBER
+            image: $IMAGE:$TAG
+            commit: ${GIT_COMMIT}
+            branch: $GIT_BRANCH
+            time: $(date -u +"%Y-%m-%dT%H:%M:%SZ")
+            url: $BUILD_URL
+            EOF
         '''
 
         // fingerprint: true tells Jenkins to compute and store a unique hash (a “fingerprint”) for the archived file.
